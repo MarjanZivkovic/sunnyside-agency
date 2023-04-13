@@ -18,6 +18,10 @@
     flex-wrap: wrap;
 }
 
+*:focus{
+    outline: none;
+}
+
 body{
     margin: 0;
     font-family: 'Fraunces' , serif;
